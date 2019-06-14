@@ -10,7 +10,7 @@
       "request": "launch",
       "mode": "remote",
       "program": "${workspaceRoot}",
-      "remotePath": "/go/src/github.com/mikemadisonweb/go-debug-example",
+      "remotePath": "/go/src/github.com/sdileep/go-debug-example",
       "port": 2345,
       "host": "127.0.0.1",
       "env": {},
